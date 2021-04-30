@@ -24,7 +24,7 @@ pylint==1.9.2
 requests==2.19.1
 requests-oauthlib==1.0.0
 rope==0.10.7
-rsa==3.4.2
+rsa==4.7
 singledispatch==3.4.0.3
 six==1.11.0
 uritemplate==3.0.0
